@@ -9,3 +9,4 @@
 -- +------+----------------------+------+--------+
 
 
+Select year, name, wins, losses from teams order by losses Desc limit 3;
